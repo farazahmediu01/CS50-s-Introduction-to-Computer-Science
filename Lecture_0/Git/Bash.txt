@@ -1,0 +1,8 @@
+cd 	chang directory
+cd.. 	change dir get back to parent directory
+ls  	list down directories
+ls -a	list down directories with hidden files
+ls -l	list down directories with premissions
+ls -la	list down directories and hidden files with premissions
+
+rm -rf <directory name> 		remove directory

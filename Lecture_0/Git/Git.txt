@@ -1,0 +1,14 @@
+Following are the some important commands of git.
+
+1) git clone <url>		it download the copy of whole directory located at the given url
+2) git add <filename>	it tells git that I want to track this file, as I next time make a change to it.
+3) git commit -m "message" 	it adds a commit, a commit keep track what is change and attach a message with it.
+
+3.2) git commit -am "message" this command simplify git add and git commit both in single command.
+
+4) git status		it tell you what's going on currently in your repository
+5) git push		it upload all the changes to the remote repository
+6)git pull			if someone make change in your repo, git pull will downloads all changes in your pc.
+7)git merge		it remove conflic, when working in a team.
+8)git log			it shows the history of commits.
+9)git reset (arg)		you make some changes and messedup and you dont want changes any more and you want 				things as 	they were before.
